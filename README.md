@@ -2,7 +2,7 @@
 
 The goal of this project is to design UI for Patients' management system of a Hospital
 
-# Login view
+### Login view
 
 ![kirjautuminen](https://github.com/user-attachments/assets/e4f4d598-30cb-4605-b1ca-6adadeb34e3d)
 
