@@ -8,3 +8,7 @@ The goal of this project is to design UI for Patients' management system of a Ho
 ## Project Documentation
 
 [Request project documentation from nidalaburaed94@gmail.com]
+
+## Inqueries
+
+In case of inquiries, feel free to send message via email to nidalaburaed@hotmail.com
